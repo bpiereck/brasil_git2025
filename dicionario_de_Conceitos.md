@@ -19,3 +19,11 @@ Questões relevantes para considerar na minha mensagem
 - Como
 - Limitações
 - Efeitos
+
+## Areas conceituais
+
+- Area de desenvolvimento: Onde os arquivos do projeto são editados no seu computador. A pasta onde estão os arquivos do projeto.
+
+- Area de __Staging__ : Aread e preparo para triagem do que será enviado ao git. 
+
+- Repositório local: Local onde vão os commites, as versões dos meus arquivos, versões do meu projeto. Este é encontrado como forma de arquivo na pasta .git que dever ser protegida com a minha propria vida.
