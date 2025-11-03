@@ -18,6 +18,11 @@ git config --global user.email "meu@email.com"
 
 ## Rotina básica do git
 
-git add <arquivo>
+Save
 
-git commit -m "mensagem relevante"
+git status (conferir em qual area concentual meu arquivo está)
+
+git add <arquivo> (adicionar na __staging__ area )
+
+git commit -m "mensagem relevante" (enviar para o repositorio local)
+
