@@ -24,4 +24,6 @@ git status (conferir em qual area concentual meu arquivo está)
 
 git add <arquivo> (adicionar na __staging__ area )
 
+Novo comando .......
+
 

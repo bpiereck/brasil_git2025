@@ -56,3 +56,5 @@ Arquivo novo, sem nenhuma versão salva.
 Arquivo com mudanças que não foram enviadas para o __staging__. O que significa que eu preciso terminar todo a rotina básica do git
 
 `git add nome_do_arquivo.md` seguido de `git commit -m "mensagem"`
+
+novo texto .....
